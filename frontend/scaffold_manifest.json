@@ -1,0 +1,18 @@
+{
+  "name": "Mastermind-Fullstack-Apex",
+  "version": "1.0.0",
+  "guid": "983DE8C8-E120-1-B5A0-C6D8AF97BB09",
+  "stack": {
+    "frontend": "Next.js 14 (App Router)",
+    "ui": "Shadcn/UI + Tailwind CSS",
+    "backend_auth": "Supabase Auth + PostgreSQL",
+    "orchestration": "Zenith Nexus Bridge",
+    "deployment": "Vercel"
+  },
+  "features": [
+    "5-Account Memory Visualization",
+    "Forensic Repo Scanning Dashboard",
+    "Real-time Swarm Execution logs",
+    "GUID-locked Secure Access"
+  ]
+}
